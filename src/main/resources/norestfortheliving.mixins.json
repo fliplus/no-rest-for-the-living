@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "fliplus.mixins",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "PhantomSpawnerMixin",
+    "ServerLevelMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}
