@@ -1,7 +1,7 @@
 //? if fabric {
-package fliplus.loaders.fabric;
+package fliplus.norestfortheliving.loaders.fabric;
 
-import fliplus.NoRestForTheLiving;
+import fliplus.norestfortheliving.NoRestForTheLiving;
 import net.fabricmc.api.ModInitializer;
 
 public class FabricEntrypoint implements ModInitializer {

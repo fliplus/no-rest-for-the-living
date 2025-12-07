@@ -1,4 +1,4 @@
-package fliplus;
+package fliplus.norestfortheliving;
 
 public class NoRestForTheLiving {
     public static final String MOD_ID = "norestfortheliving";

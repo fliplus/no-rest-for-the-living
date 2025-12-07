@@ -1,4 +1,4 @@
-package fliplus.mixins;
+package fliplus.norestfortheliving.mixins;
 
 import com.llamalad7.mixinextras.sugar.Local;
 import net.minecraft.server.level.ServerPlayer;

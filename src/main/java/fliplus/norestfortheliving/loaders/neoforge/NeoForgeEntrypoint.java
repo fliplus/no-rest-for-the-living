@@ -1,7 +1,7 @@
 //? if neoforge {
-/*package fliplus.loaders.neoforge;
+/*package fliplus.norestfortheliving.loaders.neoforge;
 
-import fliplus.NoRestForTheLiving;
+import fliplus.norestfortheliving.NoRestForTheLiving;
 import net.neoforged.fml.common.Mod;
 
 @Mod(NoRestForTheLiving.MOD_ID)

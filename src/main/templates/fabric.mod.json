@@ -15,7 +15,7 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "fliplus.loaders.fabric.FabricEntrypoint"
+      "fliplus.norestfortheliving.loaders.fabric.FabricEntrypoint"
     ]
   },
   "depends": {

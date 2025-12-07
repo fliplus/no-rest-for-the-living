@@ -1,4 +1,4 @@
-package fliplus.mixins;
+package fliplus.norestfortheliving.mixins;
 
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.server.players.SleepStatus;
